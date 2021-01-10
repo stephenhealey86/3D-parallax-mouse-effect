@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@700&display=swap');
+
+html, body {
+    height: 100%;
+    padding: 0;
+    margin: 0;
+    font-size: 14px;
+    background-image: url('./assets/background.svg');
+}
+
+* {
+    box-sizing: border-box;
+}
